@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/androsovichslava/badges/large)](https://www.codewars.com/users/androsovichslava)   
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!--
 **androsovichslava/androsovichslava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

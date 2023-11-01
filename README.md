@@ -1,6 +1,6 @@
-### Hi there 👋
+### Все привет 👋
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Вы+попали+на+страницу+АНДРОСОВИЧА+ВЯЧЕСЛАВА)](https://git.io/typing-svg)
 <!--
 **androsovichslava/androsovichslava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

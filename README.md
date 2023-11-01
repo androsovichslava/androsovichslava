@@ -1,4 +1,4 @@
-### Всем привет 👋
+
 <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REACT+DEVELOPER)](https://git.io/typing-svg)
 <h3><b>НАВЫКИ</b></h3>
